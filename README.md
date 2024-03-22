@@ -1,8 +1,6 @@
 # Rp2040-Zero-CircuitPython-Music-Controller
 Music controller for RP2040-Zero with CircuitPython
 
-Dependencies:
-
 Installation
 1. Download [CircuitPython UF2](https://circuitpython.org/board/waveshare_rp2040_zero/)
 2. Press and hold BOOT button while connecting the USB-C cable to the RP2040-Zero

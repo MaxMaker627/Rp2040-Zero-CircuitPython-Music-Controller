@@ -12,3 +12,5 @@ Installation
 8. Put this on Keyboard Manager:
 ![image](https://github.com/MaxMaker627/Rp2040-Zero-CircuitPython-Music-Controller/assets/84734457/c89d0e71-877d-4e2d-8b38-53df9faf34b4)
 9. Enjoy!
+
+![Rp2040](https://github.com/MaxMaker627/Rp2040-Zero-CircuitPython-Music-Controller/assets/84734457/d4a2984f-607c-49a8-9da0-3d50f2c67939)
